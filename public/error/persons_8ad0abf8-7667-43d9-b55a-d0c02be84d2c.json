@@ -1,0 +1,3001 @@
+[ {
+  "name" : "Chloe Shah",
+  "birthday" : "2004-02-11",
+  "email" : "Chloe.Shah@domain.xyz",
+  "revenue" : 89.58,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Spring",
+  "birthday" : "1997-02-11",
+  "email" : "Berat.Spring@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Lang",
+  "birthday" : "1993-02-11",
+  "email" : "Sofia.Lang@domain.xyz",
+  "revenue" : 622.54,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Shah",
+  "birthday" : "1998-02-11",
+  "email" : "Amelia.Shah@domain.xyz",
+  "revenue" : 408.95,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Gill",
+  "birthday" : "1996-02-11",
+  "email" : "Harper.Gill@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Scarlett Winters",
+  "birthday" : "2000-02-11",
+  "email" : "Scarlett.Winters@domain.xyz",
+  "revenue" : 307.93,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Smith",
+  "birthday" : "1998-02-11",
+  "email" : "Wei.Smith@domain.xyz",
+  "revenue" : 27.16,
+  "isCustomer" : true
+}, {
+  "name" : "Li Lee",
+  "birthday" : "2002-02-11",
+  "email" : "Li.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Daliah Shah",
+  "birthday" : "1989-02-11",
+  "email" : "Daliah.Shah@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Abigail Knox",
+  "birthday" : "1994-02-11",
+  "email" : "Abigail.Knox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Liu",
+  "birthday" : "1992-02-11",
+  "email" : "Amelia.Liu@domain.xyz",
+  "revenue" : 476.23,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Aziz",
+  "birthday" : "1990-02-11",
+  "email" : "Amelia.Aziz@domain.xyz",
+  "revenue" : 680.44,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Singh",
+  "birthday" : "1997-02-11",
+  "email" : "Ahmet.Singh@domain.xyz",
+  "revenue" : 8.77,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Michael",
+  "birthday" : "2004-02-11",
+  "email" : "Wei.Michael@domain.xyz",
+  "revenue" : 40.17,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Potter",
+  "birthday" : "1999-02-11",
+  "email" : "Emily.Potter@domain.xyz",
+  "revenue" : 278.85,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Winters",
+  "birthday" : "1990-02-11",
+  "email" : "Yildrim.Winters@domain.xyz",
+  "revenue" : 170.63,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Wolf",
+  "birthday" : "1987-02-11",
+  "email" : "Emily.Wolf@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Chen",
+  "birthday" : "2001-02-11",
+  "email" : "Amelia.Chen@domain.xyz",
+  "revenue" : 289.74,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Winters",
+  "birthday" : "1998-02-11",
+  "email" : "Avery.Winters@domain.xyz",
+  "revenue" : 43.83,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Wolf",
+  "birthday" : "1994-02-11",
+  "email" : "Ella.Wolf@domain.xyz",
+  "revenue" : 359.85,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Lang",
+  "birthday" : "2004-02-11",
+  "email" : "Qiang,.Lang@domain.xyz",
+  "revenue" : 36.07,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Smith",
+  "birthday" : "1987-02-11",
+  "email" : "Yildrim.Smith@domain.xyz",
+  "revenue" : 382.70,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Fox",
+  "birthday" : "1989-02-11",
+  "email" : "Qiang,.Fox@domain.xyz",
+  "revenue" : 91.06,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Small",
+  "birthday" : "1992-02-11",
+  "email" : "Qiang,.Small@domain.xyz",
+  "revenue" : 576.67,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Chen",
+  "birthday" : "1996-02-11",
+  "email" : "Chloe.Chen@domain.xyz",
+  "revenue" : 93.89,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Lee",
+  "birthday" : "1993-02-11",
+  "email" : "Yildrim.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Chloe Carvalho",
+  "birthday" : "1988-02-11",
+  "email" : "Chloe.Carvalho@domain.xyz",
+  "revenue" : 13.31,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Lang",
+  "birthday" : "2002-02-11",
+  "email" : "Qiang,.Lang@domain.xyz",
+  "revenue" : 2.04,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Gill",
+  "birthday" : "1989-02-11",
+  "email" : "Qiang,.Gill@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Aziz",
+  "birthday" : "2002-02-11",
+  "email" : "Sofia.Aziz@domain.xyz",
+  "revenue" : 301.63,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Aziz",
+  "birthday" : "2004-02-11",
+  "email" : "Madison.Aziz@domain.xyz",
+  "revenue" : 16.99,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Knox",
+  "birthday" : "1996-02-11",
+  "email" : "Scarlett.Knox@domain.xyz",
+  "revenue" : 137.16,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Gill",
+  "birthday" : "1988-02-11",
+  "email" : "Berat.Gill@domain.xyz",
+  "revenue" : 64.57,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Burke",
+  "birthday" : "2000-02-11",
+  "email" : "Qiang,.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Aziz",
+  "birthday" : "1989-02-11",
+  "email" : "Yildrim.Aziz@domain.xyz",
+  "revenue" : 750.03,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Lang",
+  "birthday" : "1996-02-11",
+  "email" : "Evelyn.Lang@domain.xyz",
+  "revenue" : 45.37,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Smith",
+  "birthday" : "1995-02-11",
+  "email" : "Harper.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Wei Singh",
+  "birthday" : "1997-02-11",
+  "email" : "Wei.Singh@domain.xyz",
+  "revenue" : 45.29,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Fox",
+  "birthday" : "1995-02-11",
+  "email" : "Ella.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Daliah Lang",
+  "birthday" : "1998-02-11",
+  "email" : "Daliah.Lang@domain.xyz",
+  "revenue" : 111.57,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Smith",
+  "birthday" : "1997-02-11",
+  "email" : "Minh.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Avery Lang",
+  "birthday" : "1992-02-11",
+  "email" : "Avery.Lang@domain.xyz",
+  "revenue" : 436.44,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Gill",
+  "birthday" : "1996-02-11",
+  "email" : "Berat.Gill@domain.xyz",
+  "revenue" : 194.10,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Lee",
+  "birthday" : "1989-02-11",
+  "email" : "Elizabeth.Lee@domain.xyz",
+  "revenue" : 760.96,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Chen",
+  "birthday" : "1987-02-11",
+  "email" : "Daliah.Chen@domain.xyz",
+  "revenue" : 3.69,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Fox",
+  "birthday" : "1996-02-11",
+  "email" : "Grace.Fox@domain.xyz",
+  "revenue" : 7.92,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Potter",
+  "birthday" : "1993-02-11",
+  "email" : "Daliah.Potter@domain.xyz",
+  "revenue" : 53.68,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Singh",
+  "birthday" : "1997-02-11",
+  "email" : "Yildrim.Singh@domain.xyz",
+  "revenue" : 35.95,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Knox",
+  "birthday" : "1991-02-11",
+  "email" : "Berat.Knox@domain.xyz",
+  "revenue" : 159.06,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Khan",
+  "birthday" : "1986-02-11",
+  "email" : "Wei.Khan@domain.xyz",
+  "revenue" : 691.29,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Khan",
+  "birthday" : "1992-02-11",
+  "email" : "Grace.Khan@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Wei Sommers",
+  "birthday" : "1985-02-11",
+  "email" : "Wei.Sommers@domain.xyz",
+  "revenue" : 49.71,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Burke",
+  "birthday" : "2001-02-11",
+  "email" : "Daliah.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Scarlett Khan",
+  "birthday" : "1990-02-11",
+  "email" : "Scarlett.Khan@domain.xyz",
+  "revenue" : 367.57,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Khan",
+  "birthday" : "1988-02-11",
+  "email" : "Ella.Khan@domain.xyz",
+  "revenue" : 569.39,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Khan",
+  "birthday" : "1991-02-11",
+  "email" : "Scarlett.Khan@domain.xyz",
+  "revenue" : 63.47,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Lee",
+  "birthday" : "1998-02-11",
+  "email" : "Jìng.Lee@domain.xyz",
+  "revenue" : 587.69,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Nguyen",
+  "birthday" : "1993-02-11",
+  "email" : "Ella.Nguyen@domain.xyz",
+  "revenue" : 253.70,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Michael",
+  "birthday" : "1993-02-11",
+  "email" : "Abigail.Michael@domain.xyz",
+  "revenue" : 231.49,
+  "isCustomer" : true
+}, {
+  "name" : "Li Chen",
+  "birthday" : "1998-02-11",
+  "email" : "Li.Chen@domain.xyz",
+  "revenue" : 469.64,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Potter",
+  "birthday" : "2001-02-11",
+  "email" : "Jìng.Potter@domain.xyz",
+  "revenue" : 384.78,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Small",
+  "birthday" : "2003-02-11",
+  "email" : "Minh.Small@domain.xyz",
+  "revenue" : 0.81,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Michael",
+  "birthday" : "1989-02-11",
+  "email" : "Avery.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Elizabeth Shah",
+  "birthday" : "1997-02-11",
+  "email" : "Elizabeth.Shah@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Liu",
+  "birthday" : "1992-02-11",
+  "email" : "Kaya.Liu@domain.xyz",
+  "revenue" : 23.92,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Aziz",
+  "birthday" : "1986-02-11",
+  "email" : "Minh.Aziz@domain.xyz",
+  "revenue" : 97.06,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Smith",
+  "birthday" : "1994-02-11",
+  "email" : "Evelyn.Smith@domain.xyz",
+  "revenue" : 107.74,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Potter",
+  "birthday" : "2000-02-11",
+  "email" : "Wei.Potter@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ahmet Khan",
+  "birthday" : "1985-02-11",
+  "email" : "Ahmet.Khan@domain.xyz",
+  "revenue" : 234.68,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Spring",
+  "birthday" : "1992-02-11",
+  "email" : "Minh.Spring@domain.xyz",
+  "revenue" : 210.97,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Singh",
+  "birthday" : "2000-02-11",
+  "email" : "Elizabeth.Singh@domain.xyz",
+  "revenue" : 358.05,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Aziz",
+  "birthday" : "1985-02-11",
+  "email" : "Amelia.Aziz@domain.xyz",
+  "revenue" : 328.41,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Aziz",
+  "birthday" : "1996-02-11",
+  "email" : "Berat.Aziz@domain.xyz",
+  "revenue" : 344.45,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Sommers",
+  "birthday" : "1992-02-11",
+  "email" : "Harper.Sommers@domain.xyz",
+  "revenue" : 128.98,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Liu",
+  "birthday" : "2004-02-11",
+  "email" : "Evelyn.Liu@domain.xyz",
+  "revenue" : 9.99,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Singh",
+  "birthday" : "2004-02-11",
+  "email" : "Daliah.Singh@domain.xyz",
+  "revenue" : 605.07,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Shah",
+  "birthday" : "1994-02-11",
+  "email" : "Qiang,.Shah@domain.xyz",
+  "revenue" : 351.97,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Singh",
+  "birthday" : "1994-02-11",
+  "email" : "Amelia.Singh@domain.xyz",
+  "revenue" : 479.05,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Fox",
+  "birthday" : "1995-02-11",
+  "email" : "Grace.Fox@domain.xyz",
+  "revenue" : 38.23,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Singh",
+  "birthday" : "1996-02-11",
+  "email" : "Avery.Singh@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Chen",
+  "birthday" : "1999-02-11",
+  "email" : "Amelia.Chen@domain.xyz",
+  "revenue" : 252.96,
+  "isCustomer" : true
+}, {
+  "name" : "Li Burke",
+  "birthday" : "1990-02-11",
+  "email" : "Li.Burke@domain.xyz",
+  "revenue" : 415.71,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Lang",
+  "birthday" : "2000-02-11",
+  "email" : "Jìng.Lang@domain.xyz",
+  "revenue" : 293.61,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Michael",
+  "birthday" : "1991-02-11",
+  "email" : "Zane.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Carvalho",
+  "birthday" : "2001-02-11",
+  "email" : "Sofia.Carvalho@domain.xyz",
+  "revenue" : 504.24,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Wolf",
+  "birthday" : "2002-02-11",
+  "email" : "Amelia.Wolf@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Zane Fox",
+  "birthday" : "1992-02-11",
+  "email" : "Zane.Fox@domain.xyz",
+  "revenue" : 698.39,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Nguyen",
+  "birthday" : "2000-02-11",
+  "email" : "Harper.Nguyen@domain.xyz",
+  "revenue" : 375.76,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Chen",
+  "birthday" : "1989-02-11",
+  "email" : "Emily.Chen@domain.xyz",
+  "revenue" : 44.72,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Shah",
+  "birthday" : "1988-02-11",
+  "email" : "Zane.Shah@domain.xyz",
+  "revenue" : 224.14,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Potter",
+  "birthday" : "1989-02-11",
+  "email" : "Chloe.Potter@domain.xyz",
+  "revenue" : 16.75,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Shah",
+  "birthday" : "1990-02-11",
+  "email" : "Wei.Shah@domain.xyz",
+  "revenue" : 310.66,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Lee",
+  "birthday" : "1992-02-11",
+  "email" : "Berat.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ella Knox",
+  "birthday" : "1995-02-11",
+  "email" : "Ella.Knox@domain.xyz",
+  "revenue" : 14.21,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Aziz",
+  "birthday" : "1985-02-11",
+  "email" : "Evelyn.Aziz@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Grace Gill",
+  "birthday" : "2004-02-11",
+  "email" : "Grace.Gill@domain.xyz",
+  "revenue" : 138.38,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Winters",
+  "birthday" : "1986-02-11",
+  "email" : "Wei.Winters@domain.xyz",
+  "revenue" : 71.35,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Sommers",
+  "birthday" : "2004-02-11",
+  "email" : "Abigail.Sommers@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Potter",
+  "birthday" : "2003-02-11",
+  "email" : "Amelia.Potter@domain.xyz",
+  "revenue" : 143.69,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Winters",
+  "birthday" : "2002-02-11",
+  "email" : "Daliah.Winters@domain.xyz",
+  "revenue" : 221.37,
+  "isCustomer" : true
+}, {
+  "name" : "Li Singh",
+  "birthday" : "1994-02-11",
+  "email" : "Li.Singh@domain.xyz",
+  "revenue" : 688.79,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Smith",
+  "birthday" : "1996-02-11",
+  "email" : "Zane.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Abigail Winters",
+  "birthday" : "1995-02-11",
+  "email" : "Abigail.Winters@domain.xyz",
+  "revenue" : 327.01,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Spring",
+  "birthday" : "2002-02-11",
+  "email" : "Ella.Spring@domain.xyz",
+  "revenue" : 38.44,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Michael",
+  "birthday" : "1994-02-11",
+  "email" : "Abigail.Michael@domain.xyz",
+  "revenue" : 43.53,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Wolf",
+  "birthday" : "1992-02-11",
+  "email" : "Harper.Wolf@domain.xyz",
+  "revenue" : 35.35,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Michael",
+  "birthday" : "2002-02-11",
+  "email" : "Elizabeth.Michael@domain.xyz",
+  "revenue" : 485.22,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Smith",
+  "birthday" : "1995-02-11",
+  "email" : "Amelia.Smith@domain.xyz",
+  "revenue" : 29.99,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Lang",
+  "birthday" : "2000-02-11",
+  "email" : "Minh.Lang@domain.xyz",
+  "revenue" : 150.54,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Spring",
+  "birthday" : "2000-02-11",
+  "email" : "Yildrim.Spring@domain.xyz",
+  "revenue" : 4.57,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Nguyen",
+  "birthday" : "2004-02-11",
+  "email" : "Jìng.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Elizabeth Singh",
+  "birthday" : "1991-02-11",
+  "email" : "Elizabeth.Singh@domain.xyz",
+  "revenue" : 16.36,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Shah",
+  "birthday" : "1986-02-11",
+  "email" : "Daliah.Shah@domain.xyz",
+  "revenue" : 154.62,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Michael",
+  "birthday" : "1990-02-11",
+  "email" : "Amelia.Michael@domain.xyz",
+  "revenue" : 104.22,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Liu",
+  "birthday" : "1988-02-11",
+  "email" : "Qiang,.Liu@domain.xyz",
+  "revenue" : 321.12,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Mueller",
+  "birthday" : "1990-02-11",
+  "email" : "Sofia.Mueller@domain.xyz",
+  "revenue" : 184.77,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Wolf",
+  "birthday" : "1990-02-11",
+  "email" : "Wei.Wolf@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Daliah Knox",
+  "birthday" : "1990-02-11",
+  "email" : "Daliah.Knox@domain.xyz",
+  "revenue" : 72.31,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Aziz",
+  "birthday" : "2000-02-11",
+  "email" : "Daliah.Aziz@domain.xyz",
+  "revenue" : 190.33,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Singh",
+  "birthday" : "1985-02-11",
+  "email" : "Amelia.Singh@domain.xyz",
+  "revenue" : 15.49,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Nguyen",
+  "birthday" : "1986-02-11",
+  "email" : "Harper.Nguyen@domain.xyz",
+  "revenue" : 13.09,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Small",
+  "birthday" : "1992-02-11",
+  "email" : "Ahmet.Small@domain.xyz",
+  "revenue" : 181.69,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Aziz",
+  "birthday" : "2003-02-11",
+  "email" : "Amelia.Aziz@domain.xyz",
+  "revenue" : 429.59,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Aziz",
+  "birthday" : "1999-02-11",
+  "email" : "Evelyn.Aziz@domain.xyz",
+  "revenue" : 12.30,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Khan",
+  "birthday" : "1994-02-11",
+  "email" : "Amelia.Khan@domain.xyz",
+  "revenue" : 279.09,
+  "isCustomer" : true
+}, {
+  "name" : "Li Potter",
+  "birthday" : "1987-02-11",
+  "email" : "Li.Potter@domain.xyz",
+  "revenue" : 61.46,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Spring",
+  "birthday" : "2002-02-11",
+  "email" : "Abigail.Spring@domain.xyz",
+  "revenue" : 108.08,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Liu",
+  "birthday" : "1991-02-11",
+  "email" : "Chloe.Liu@domain.xyz",
+  "revenue" : 595.95,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Lang",
+  "birthday" : "1994-02-11",
+  "email" : "Grace.Lang@domain.xyz",
+  "revenue" : 337.14,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Burke",
+  "birthday" : "1992-02-11",
+  "email" : "Elizabeth.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Elizabeth Sommers",
+  "birthday" : "2000-02-11",
+  "email" : "Elizabeth.Sommers@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Zane Lang",
+  "birthday" : "1987-02-11",
+  "email" : "Zane.Lang@domain.xyz",
+  "revenue" : 551.42,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Fox",
+  "birthday" : "1997-02-11",
+  "email" : "Evelyn.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Zane Winters",
+  "birthday" : "2004-02-11",
+  "email" : "Zane.Winters@domain.xyz",
+  "revenue" : 327.53,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Lang",
+  "birthday" : "1985-02-11",
+  "email" : "Grace.Lang@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Nguyen",
+  "birthday" : "2000-02-11",
+  "email" : "Sofia.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Winters",
+  "birthday" : "2001-02-11",
+  "email" : "Amelia.Winters@domain.xyz",
+  "revenue" : 38.18,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Lang",
+  "birthday" : "2003-02-11",
+  "email" : "Elizabeth.Lang@domain.xyz",
+  "revenue" : 2.69,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Shah",
+  "birthday" : "2004-02-11",
+  "email" : "Kaya.Shah@domain.xyz",
+  "revenue" : 372.61,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Gill",
+  "birthday" : "1989-02-11",
+  "email" : "Grace.Gill@domain.xyz",
+  "revenue" : 290.04,
+  "isCustomer" : true
+}, {
+  "name" : "Li Carvalho",
+  "birthday" : "1987-02-11",
+  "email" : "Li.Carvalho@domain.xyz",
+  "revenue" : 1.53,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Sanchez",
+  "birthday" : "2001-02-11",
+  "email" : "Scarlett.Sanchez@domain.xyz",
+  "revenue" : 124.79,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Winters",
+  "birthday" : "1995-02-11",
+  "email" : "Evelyn.Winters@domain.xyz",
+  "revenue" : 205.36,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Nguyen",
+  "birthday" : "1988-02-11",
+  "email" : "Scarlett.Nguyen@domain.xyz",
+  "revenue" : 338.87,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Burke",
+  "birthday" : "1996-02-11",
+  "email" : "Evelyn.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ella Gill",
+  "birthday" : "1988-02-11",
+  "email" : "Ella.Gill@domain.xyz",
+  "revenue" : 188.82,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Fox",
+  "birthday" : "1996-02-11",
+  "email" : "Yildrim.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Knox",
+  "birthday" : "1986-02-11",
+  "email" : "Kaya.Knox@domain.xyz",
+  "revenue" : 91.42,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Carvalho",
+  "birthday" : "1996-02-11",
+  "email" : "Madison.Carvalho@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Abigail Knox",
+  "birthday" : "1989-02-11",
+  "email" : "Abigail.Knox@domain.xyz",
+  "revenue" : 201.81,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Mueller",
+  "birthday" : "2002-02-11",
+  "email" : "Ahmet.Mueller@domain.xyz",
+  "revenue" : 136.21,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Liu",
+  "birthday" : "1996-02-11",
+  "email" : "Zane.Liu@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Small",
+  "birthday" : "2003-02-11",
+  "email" : "Sofia.Small@domain.xyz",
+  "revenue" : 119.56,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Aziz",
+  "birthday" : "1987-02-11",
+  "email" : "Grace.Aziz@domain.xyz",
+  "revenue" : 258.31,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Sanchez",
+  "birthday" : "1992-02-11",
+  "email" : "Harper.Sanchez@domain.xyz",
+  "revenue" : 444.89,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Winters",
+  "birthday" : "1993-02-11",
+  "email" : "Qiang,.Winters@domain.xyz",
+  "revenue" : 302.57,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Shah",
+  "birthday" : "1997-02-11",
+  "email" : "Zane.Shah@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Minh Lee",
+  "birthday" : "1995-02-11",
+  "email" : "Minh.Lee@domain.xyz",
+  "revenue" : 26.04,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Winters",
+  "birthday" : "1990-02-11",
+  "email" : "Grace.Winters@domain.xyz",
+  "revenue" : 187.78,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Carvalho",
+  "birthday" : "2003-02-11",
+  "email" : "Daliah.Carvalho@domain.xyz",
+  "revenue" : 548.56,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Khan",
+  "birthday" : "1999-02-11",
+  "email" : "Scarlett.Khan@domain.xyz",
+  "revenue" : 320.94,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Sommers",
+  "birthday" : "1996-02-11",
+  "email" : "Ahmet.Sommers@domain.xyz",
+  "revenue" : 33.43,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Lee",
+  "birthday" : "1992-02-11",
+  "email" : "Jìng.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Minh Shah",
+  "birthday" : "2001-02-11",
+  "email" : "Minh.Shah@domain.xyz",
+  "revenue" : 212.11,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Sommers",
+  "birthday" : "1987-02-11",
+  "email" : "Minh.Sommers@domain.xyz",
+  "revenue" : 415.74,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Small",
+  "birthday" : "1993-02-11",
+  "email" : "Jìng.Small@domain.xyz",
+  "revenue" : 468.26,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Lee",
+  "birthday" : "1996-02-11",
+  "email" : "Yildrim.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Mueller",
+  "birthday" : "2000-02-11",
+  "email" : "Kaya.Mueller@domain.xyz",
+  "revenue" : 223.11,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Lang",
+  "birthday" : "1987-02-11",
+  "email" : "Harper.Lang@domain.xyz",
+  "revenue" : 73.03,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Gill",
+  "birthday" : "1998-02-11",
+  "email" : "Ahmet.Gill@domain.xyz",
+  "revenue" : 242.57,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Smith",
+  "birthday" : "1987-02-11",
+  "email" : "Kaya.Smith@domain.xyz",
+  "revenue" : 443.11,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Sommers",
+  "birthday" : "2003-02-11",
+  "email" : "Kaya.Sommers@domain.xyz",
+  "revenue" : 151.21,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Wolf",
+  "birthday" : "1997-02-11",
+  "email" : "Grace.Wolf@domain.xyz",
+  "revenue" : 30.58,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Nguyen",
+  "birthday" : "1985-02-11",
+  "email" : "Madison.Nguyen@domain.xyz",
+  "revenue" : 365.66,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Carvalho",
+  "birthday" : "2000-02-11",
+  "email" : "Zane.Carvalho@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Harper Lee",
+  "birthday" : "1994-02-11",
+  "email" : "Harper.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Spring",
+  "birthday" : "1989-02-11",
+  "email" : "Sofia.Spring@domain.xyz",
+  "revenue" : 152.94,
+  "isCustomer" : true
+}, {
+  "name" : "Li Smith",
+  "birthday" : "2002-02-11",
+  "email" : "Li.Smith@domain.xyz",
+  "revenue" : 593.71,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Lee",
+  "birthday" : "1995-02-11",
+  "email" : "Sofia.Lee@domain.xyz",
+  "revenue" : 103.38,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Aziz",
+  "birthday" : "1985-02-11",
+  "email" : "Sofia.Aziz@domain.xyz",
+  "revenue" : 107.07,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Singh",
+  "birthday" : "2004-02-11",
+  "email" : "Kaya.Singh@domain.xyz",
+  "revenue" : 491.73,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Fox",
+  "birthday" : "2000-02-11",
+  "email" : "Sofia.Fox@domain.xyz",
+  "revenue" : 185.71,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Michael",
+  "birthday" : "2003-02-11",
+  "email" : "Scarlett.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Qiang, Potter",
+  "birthday" : "1988-02-11",
+  "email" : "Qiang,.Potter@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Gill",
+  "birthday" : "2003-02-11",
+  "email" : "Amelia.Gill@domain.xyz",
+  "revenue" : 625.33,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Nguyen",
+  "birthday" : "2002-02-11",
+  "email" : "Avery.Nguyen@domain.xyz",
+  "revenue" : 11.70,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Chen",
+  "birthday" : "1996-02-11",
+  "email" : "Minh.Chen@domain.xyz",
+  "revenue" : 31.37,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Carvalho",
+  "birthday" : "1991-02-11",
+  "email" : "Evelyn.Carvalho@domain.xyz",
+  "revenue" : 384.69,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Michael",
+  "birthday" : "1999-02-11",
+  "email" : "Yildrim.Michael@domain.xyz",
+  "revenue" : 416.36,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Spring",
+  "birthday" : "1985-02-11",
+  "email" : "Wei.Spring@domain.xyz",
+  "revenue" : 141.74,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Lang",
+  "birthday" : "2002-02-11",
+  "email" : "Emily.Lang@domain.xyz",
+  "revenue" : 95.47,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Lee",
+  "birthday" : "2000-02-11",
+  "email" : "Chloe.Lee@domain.xyz",
+  "revenue" : 337.69,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Potter",
+  "birthday" : "1993-02-11",
+  "email" : "Emily.Potter@domain.xyz",
+  "revenue" : 352.04,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Khan",
+  "birthday" : "1987-02-11",
+  "email" : "Jìng.Khan@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ahmet Carvalho",
+  "birthday" : "1994-02-11",
+  "email" : "Ahmet.Carvalho@domain.xyz",
+  "revenue" : 315.84,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Sommers",
+  "birthday" : "2001-02-11",
+  "email" : "Emily.Sommers@domain.xyz",
+  "revenue" : 127.36,
+  "isCustomer" : true
+}, {
+  "name" : "Li Liu",
+  "birthday" : "2000-02-11",
+  "email" : "Li.Liu@domain.xyz",
+  "revenue" : 22.91,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Shah",
+  "birthday" : "1988-02-11",
+  "email" : "Qiang,.Shah@domain.xyz",
+  "revenue" : 52.20,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Michael",
+  "birthday" : "1991-02-11",
+  "email" : "Wei.Michael@domain.xyz",
+  "revenue" : 330.38,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Chen",
+  "birthday" : "2004-02-11",
+  "email" : "Jìng.Chen@domain.xyz",
+  "revenue" : 0.50,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Liu",
+  "birthday" : "1994-02-11",
+  "email" : "Kaya.Liu@domain.xyz",
+  "revenue" : 5.82,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Nguyen",
+  "birthday" : "1985-02-11",
+  "email" : "Scarlett.Nguyen@domain.xyz",
+  "revenue" : 42.49,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Lang",
+  "birthday" : "2002-02-11",
+  "email" : "Ahmet.Lang@domain.xyz",
+  "revenue" : 17.08,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Burke",
+  "birthday" : "1993-02-11",
+  "email" : "Madison.Burke@domain.xyz",
+  "revenue" : 246.97,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Liu",
+  "birthday" : "1995-02-11",
+  "email" : "Amelia.Liu@domain.xyz",
+  "revenue" : 6.52,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Smith",
+  "birthday" : "1996-02-11",
+  "email" : "Ahmet.Smith@domain.xyz",
+  "revenue" : 32.90,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Lang",
+  "birthday" : "1999-02-11",
+  "email" : "Grace.Lang@domain.xyz",
+  "revenue" : 74.49,
+  "isCustomer" : true
+}, {
+  "name" : "Li Lee",
+  "birthday" : "1999-02-11",
+  "email" : "Li.Lee@domain.xyz",
+  "revenue" : 16.95,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Sanchez",
+  "birthday" : "1985-02-11",
+  "email" : "Amelia.Sanchez@domain.xyz",
+  "revenue" : 36.77,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Smith",
+  "birthday" : "1997-02-11",
+  "email" : "Evelyn.Smith@domain.xyz",
+  "revenue" : 787.93,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Nguyen",
+  "birthday" : "1992-02-11",
+  "email" : "Amelia.Nguyen@domain.xyz",
+  "revenue" : 68.10,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Mueller",
+  "birthday" : "1988-02-11",
+  "email" : "Ahmet.Mueller@domain.xyz",
+  "revenue" : 35.44,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Burke",
+  "birthday" : "1995-02-11",
+  "email" : "Kaya.Burke@domain.xyz",
+  "revenue" : 39.41,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Chen",
+  "birthday" : "1985-02-11",
+  "email" : "Abigail.Chen@domain.xyz",
+  "revenue" : 206.73,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Carvalho",
+  "birthday" : "2004-02-11",
+  "email" : "Ella.Carvalho@domain.xyz",
+  "revenue" : 116.70,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Carvalho",
+  "birthday" : "1991-02-11",
+  "email" : "Chloe.Carvalho@domain.xyz",
+  "revenue" : 382.62,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Wolf",
+  "birthday" : "1992-02-11",
+  "email" : "Amelia.Wolf@domain.xyz",
+  "revenue" : 58.36,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Lee",
+  "birthday" : "1994-02-11",
+  "email" : "Madison.Lee@domain.xyz",
+  "revenue" : 66.68,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Shah",
+  "birthday" : "2004-02-11",
+  "email" : "Qiang,.Shah@domain.xyz",
+  "revenue" : 137.46,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Lang",
+  "birthday" : "1985-02-11",
+  "email" : "Harper.Lang@domain.xyz",
+  "revenue" : 58.80,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Lang",
+  "birthday" : "1993-02-11",
+  "email" : "Yildrim.Lang@domain.xyz",
+  "revenue" : 189.33,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Sommers",
+  "birthday" : "1996-02-11",
+  "email" : "Emily.Sommers@domain.xyz",
+  "revenue" : 99.32,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Winters",
+  "birthday" : "2000-02-11",
+  "email" : "Ahmet.Winters@domain.xyz",
+  "revenue" : 4.38,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Gill",
+  "birthday" : "2001-02-11",
+  "email" : "Zane.Gill@domain.xyz",
+  "revenue" : 1.61,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Michael",
+  "birthday" : "1988-02-11",
+  "email" : "Grace.Michael@domain.xyz",
+  "revenue" : 117.54,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Chen",
+  "birthday" : "1987-02-11",
+  "email" : "Scarlett.Chen@domain.xyz",
+  "revenue" : 13.56,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Aziz",
+  "birthday" : "2003-02-11",
+  "email" : "Daliah.Aziz@domain.xyz",
+  "revenue" : 70.42,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Chen",
+  "birthday" : "1998-02-11",
+  "email" : "Ella.Chen@domain.xyz",
+  "revenue" : 424.81,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Chen",
+  "birthday" : "1985-02-11",
+  "email" : "Yildrim.Chen@domain.xyz",
+  "revenue" : 134.88,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Wolf",
+  "birthday" : "1993-02-11",
+  "email" : "Jìng.Wolf@domain.xyz",
+  "revenue" : 166.91,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Lang",
+  "birthday" : "1988-02-11",
+  "email" : "Wei.Lang@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Small",
+  "birthday" : "1985-02-11",
+  "email" : "Emily.Small@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Jìng Wolf",
+  "birthday" : "1986-02-11",
+  "email" : "Jìng.Wolf@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Gill",
+  "birthday" : "1992-02-11",
+  "email" : "Amelia.Gill@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Mueller",
+  "birthday" : "2003-02-11",
+  "email" : "Sofia.Mueller@domain.xyz",
+  "revenue" : 16.70,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Sanchez",
+  "birthday" : "2003-02-11",
+  "email" : "Ahmet.Sanchez@domain.xyz",
+  "revenue" : 265.92,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Khan",
+  "birthday" : "2000-02-11",
+  "email" : "Minh.Khan@domain.xyz",
+  "revenue" : 9.44,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Smith",
+  "birthday" : "1989-02-11",
+  "email" : "Evelyn.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ella Khan",
+  "birthday" : "1997-02-11",
+  "email" : "Ella.Khan@domain.xyz",
+  "revenue" : 501.46,
+  "isCustomer" : true
+}, {
+  "name" : "Li Burke",
+  "birthday" : "1993-02-11",
+  "email" : "Li.Burke@domain.xyz",
+  "revenue" : 49.98,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Gill",
+  "birthday" : "1989-02-11",
+  "email" : "Amelia.Gill@domain.xyz",
+  "revenue" : 163.25,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Khan",
+  "birthday" : "1996-02-11",
+  "email" : "Harper.Khan@domain.xyz",
+  "revenue" : 55.44,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Spring",
+  "birthday" : "1994-02-11",
+  "email" : "Sofia.Spring@domain.xyz",
+  "revenue" : 233.46,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Sanchez",
+  "birthday" : "1988-02-11",
+  "email" : "Madison.Sanchez@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ella Singh",
+  "birthday" : "1995-02-11",
+  "email" : "Ella.Singh@domain.xyz",
+  "revenue" : 232.34,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Burke",
+  "birthday" : "1992-02-11",
+  "email" : "Zane.Burke@domain.xyz",
+  "revenue" : 70.57,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Wolf",
+  "birthday" : "2002-02-11",
+  "email" : "Sofia.Wolf@domain.xyz",
+  "revenue" : 188.31,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Small",
+  "birthday" : "1987-02-11",
+  "email" : "Emily.Small@domain.xyz",
+  "revenue" : 31.24,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Michael",
+  "birthday" : "1992-02-11",
+  "email" : "Berat.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Avery Michael",
+  "birthday" : "1986-02-11",
+  "email" : "Avery.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Madison Winters",
+  "birthday" : "1990-02-11",
+  "email" : "Madison.Winters@domain.xyz",
+  "revenue" : 1.24,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Smith",
+  "birthday" : "1995-02-11",
+  "email" : "Yildrim.Smith@domain.xyz",
+  "revenue" : 19.47,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Lee",
+  "birthday" : "2004-02-11",
+  "email" : "Yildrim.Lee@domain.xyz",
+  "revenue" : 49.58,
+  "isCustomer" : true
+}, {
+  "name" : "Li Smith",
+  "birthday" : "2004-02-11",
+  "email" : "Li.Smith@domain.xyz",
+  "revenue" : 244.63,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Knox",
+  "birthday" : "1985-02-11",
+  "email" : "Harper.Knox@domain.xyz",
+  "revenue" : 19.11,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Mueller",
+  "birthday" : "2001-02-11",
+  "email" : "Daliah.Mueller@domain.xyz",
+  "revenue" : 14.37,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Potter",
+  "birthday" : "1995-02-11",
+  "email" : "Madison.Potter@domain.xyz",
+  "revenue" : 126.94,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Michael",
+  "birthday" : "1992-02-11",
+  "email" : "Wei.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Wolf",
+  "birthday" : "1999-02-11",
+  "email" : "Yildrim.Wolf@domain.xyz",
+  "revenue" : 430.92,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Spring",
+  "birthday" : "1991-02-11",
+  "email" : "Chloe.Spring@domain.xyz",
+  "revenue" : 333.76,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Gill",
+  "birthday" : "1987-02-11",
+  "email" : "Grace.Gill@domain.xyz",
+  "revenue" : 277.01,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Khan",
+  "birthday" : "1998-02-11",
+  "email" : "Ahmet.Khan@domain.xyz",
+  "revenue" : 146.36,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Michael",
+  "birthday" : "1996-02-11",
+  "email" : "Avery.Michael@domain.xyz",
+  "revenue" : 4.17,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Khan",
+  "birthday" : "1987-02-11",
+  "email" : "Emily.Khan@domain.xyz",
+  "revenue" : 98.09,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Potter",
+  "birthday" : "1991-02-11",
+  "email" : "Grace.Potter@domain.xyz",
+  "revenue" : 109.38,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Burke",
+  "birthday" : "1990-02-11",
+  "email" : "Ahmet.Burke@domain.xyz",
+  "revenue" : 37.71,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Chen",
+  "birthday" : "1990-02-11",
+  "email" : "Harper.Chen@domain.xyz",
+  "revenue" : 133.27,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Gill",
+  "birthday" : "1999-02-11",
+  "email" : "Sofia.Gill@domain.xyz",
+  "revenue" : 440.16,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Knox",
+  "birthday" : "1992-02-11",
+  "email" : "Evelyn.Knox@domain.xyz",
+  "revenue" : 99.99,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Gill",
+  "birthday" : "1993-02-11",
+  "email" : "Ahmet.Gill@domain.xyz",
+  "revenue" : 12.88,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Fox",
+  "birthday" : "1988-02-11",
+  "email" : "Abigail.Fox@domain.xyz",
+  "revenue" : 713.05,
+  "isCustomer" : true
+}, {
+  "name" : "Li Gill",
+  "birthday" : "1992-02-11",
+  "email" : "Li.Gill@domain.xyz",
+  "revenue" : 568.92,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Shah",
+  "birthday" : "1987-02-11",
+  "email" : "Daliah.Shah@domain.xyz",
+  "revenue" : 39.33,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Fox",
+  "birthday" : "1986-02-11",
+  "email" : "Scarlett.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Wei Small",
+  "birthday" : "1993-02-11",
+  "email" : "Wei.Small@domain.xyz",
+  "revenue" : 235.20,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Knox",
+  "birthday" : "1992-02-11",
+  "email" : "Abigail.Knox@domain.xyz",
+  "revenue" : 601.72,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Smith",
+  "birthday" : "2002-02-11",
+  "email" : "Minh.Smith@domain.xyz",
+  "revenue" : 787.55,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Khan",
+  "birthday" : "1997-02-11",
+  "email" : "Yildrim.Khan@domain.xyz",
+  "revenue" : 123.68,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Nguyen",
+  "birthday" : "1991-02-11",
+  "email" : "Avery.Nguyen@domain.xyz",
+  "revenue" : 133.71,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Spring",
+  "birthday" : "1985-02-11",
+  "email" : "Madison.Spring@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Liu",
+  "birthday" : "2004-02-11",
+  "email" : "Yildrim.Liu@domain.xyz",
+  "revenue" : 162.30,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Khan",
+  "birthday" : "1985-02-11",
+  "email" : "Harper.Khan@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Lang",
+  "birthday" : "1994-02-11",
+  "email" : "Yildrim.Lang@domain.xyz",
+  "revenue" : 109.81,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Lee",
+  "birthday" : "1989-02-11",
+  "email" : "Berat.Lee@domain.xyz",
+  "revenue" : 167.68,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Carvalho",
+  "birthday" : "2000-02-11",
+  "email" : "Berat.Carvalho@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Elizabeth Aziz",
+  "birthday" : "1996-02-11",
+  "email" : "Elizabeth.Aziz@domain.xyz",
+  "revenue" : 53.17,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Khan",
+  "birthday" : "1997-02-11",
+  "email" : "Abigail.Khan@domain.xyz",
+  "revenue" : 217.51,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Spring",
+  "birthday" : "1985-02-11",
+  "email" : "Madison.Spring@domain.xyz",
+  "revenue" : 213.06,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Wolf",
+  "birthday" : "1997-02-11",
+  "email" : "Sofia.Wolf@domain.xyz",
+  "revenue" : 254.87,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Chen",
+  "birthday" : "1993-02-11",
+  "email" : "Evelyn.Chen@domain.xyz",
+  "revenue" : 142.08,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Sommers",
+  "birthday" : "1988-02-11",
+  "email" : "Madison.Sommers@domain.xyz",
+  "revenue" : 595.84,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Fox",
+  "birthday" : "1996-02-11",
+  "email" : "Kaya.Fox@domain.xyz",
+  "revenue" : 124.72,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Mueller",
+  "birthday" : "1986-02-11",
+  "email" : "Minh.Mueller@domain.xyz",
+  "revenue" : 183.06,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Nguyen",
+  "birthday" : "1988-02-11",
+  "email" : "Sofia.Nguyen@domain.xyz",
+  "revenue" : 214.69,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Wolf",
+  "birthday" : "1986-02-11",
+  "email" : "Amelia.Wolf@domain.xyz",
+  "revenue" : 602.29,
+  "isCustomer" : true
+}, {
+  "name" : "Li Burke",
+  "birthday" : "1994-02-11",
+  "email" : "Li.Burke@domain.xyz",
+  "revenue" : 353.43,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Sommers",
+  "birthday" : "1990-02-11",
+  "email" : "Berat.Sommers@domain.xyz",
+  "revenue" : 715.00,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Liu",
+  "birthday" : "1985-02-11",
+  "email" : "Kaya.Liu@domain.xyz",
+  "revenue" : 284.66,
+  "isCustomer" : true
+}, {
+  "name" : "Li Aziz",
+  "birthday" : "2002-02-11",
+  "email" : "Li.Aziz@domain.xyz",
+  "revenue" : 201.45,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Wolf",
+  "birthday" : "1995-02-11",
+  "email" : "Abigail.Wolf@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Mueller",
+  "birthday" : "1986-02-11",
+  "email" : "Emily.Mueller@domain.xyz",
+  "revenue" : 218.11,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Shah",
+  "birthday" : "1996-02-11",
+  "email" : "Amelia.Shah@domain.xyz",
+  "revenue" : 124.13,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Nguyen",
+  "birthday" : "1993-02-11",
+  "email" : "Emily.Nguyen@domain.xyz",
+  "revenue" : 796.91,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Nguyen",
+  "birthday" : "1991-02-11",
+  "email" : "Ahmet.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Zane Nguyen",
+  "birthday" : "1998-02-11",
+  "email" : "Zane.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Minh Potter",
+  "birthday" : "1991-02-11",
+  "email" : "Minh.Potter@domain.xyz",
+  "revenue" : 94.60,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Fox",
+  "birthday" : "1998-02-11",
+  "email" : "Daliah.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Abigail Carvalho",
+  "birthday" : "1990-02-11",
+  "email" : "Abigail.Carvalho@domain.xyz",
+  "revenue" : 190.46,
+  "isCustomer" : true
+}, {
+  "name" : "Li Singh",
+  "birthday" : "1996-02-11",
+  "email" : "Li.Singh@domain.xyz",
+  "revenue" : 32.60,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Michael",
+  "birthday" : "1990-02-11",
+  "email" : "Harper.Michael@domain.xyz",
+  "revenue" : 789.37,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Shah",
+  "birthday" : "2000-02-11",
+  "email" : "Emily.Shah@domain.xyz",
+  "revenue" : 1.96,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Potter",
+  "birthday" : "1990-02-11",
+  "email" : "Daliah.Potter@domain.xyz",
+  "revenue" : 6.77,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Singh",
+  "birthday" : "1996-02-11",
+  "email" : "Sofia.Singh@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Spring",
+  "birthday" : "2001-02-11",
+  "email" : "Yildrim.Spring@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Minh Shah",
+  "birthday" : "1985-02-11",
+  "email" : "Minh.Shah@domain.xyz",
+  "revenue" : 71.92,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Fox",
+  "birthday" : "1991-02-11",
+  "email" : "Yildrim.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Li Aziz",
+  "birthday" : "1987-02-11",
+  "email" : "Li.Aziz@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Michael",
+  "birthday" : "1988-02-11",
+  "email" : "Yildrim.Michael@domain.xyz",
+  "revenue" : 221.64,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Chen",
+  "birthday" : "2003-02-11",
+  "email" : "Berat.Chen@domain.xyz",
+  "revenue" : 365.99,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Lee",
+  "birthday" : "1994-02-11",
+  "email" : "Sofia.Lee@domain.xyz",
+  "revenue" : 59.10,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Sommers",
+  "birthday" : "1993-02-11",
+  "email" : "Kaya.Sommers@domain.xyz",
+  "revenue" : 56.84,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Aziz",
+  "birthday" : "1988-02-11",
+  "email" : "Evelyn.Aziz@domain.xyz",
+  "revenue" : 143.83,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Spring",
+  "birthday" : "2001-02-11",
+  "email" : "Amelia.Spring@domain.xyz",
+  "revenue" : 68.46,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Small",
+  "birthday" : "1994-02-11",
+  "email" : "Abigail.Small@domain.xyz",
+  "revenue" : 20.24,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Khan",
+  "birthday" : "2003-02-11",
+  "email" : "Scarlett.Khan@domain.xyz",
+  "revenue" : 391.58,
+  "isCustomer" : true
+}, {
+  "name" : "Li Chen",
+  "birthday" : "1989-02-11",
+  "email" : "Li.Chen@domain.xyz",
+  "revenue" : 708.60,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Singh",
+  "birthday" : "2003-02-11",
+  "email" : "Emily.Singh@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Scarlett Lang",
+  "birthday" : "2002-02-11",
+  "email" : "Scarlett.Lang@domain.xyz",
+  "revenue" : 185.68,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Michael",
+  "birthday" : "1998-02-11",
+  "email" : "Kaya.Michael@domain.xyz",
+  "revenue" : 160.68,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Knox",
+  "birthday" : "1997-02-11",
+  "email" : "Qiang,.Knox@domain.xyz",
+  "revenue" : 80.52,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Lee",
+  "birthday" : "1989-02-11",
+  "email" : "Elizabeth.Lee@domain.xyz",
+  "revenue" : 448.85,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Wolf",
+  "birthday" : "1988-02-11",
+  "email" : "Evelyn.Wolf@domain.xyz",
+  "revenue" : 2.04,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Nguyen",
+  "birthday" : "1990-02-11",
+  "email" : "Sofia.Nguyen@domain.xyz",
+  "revenue" : 889.71,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Smith",
+  "birthday" : "2001-02-11",
+  "email" : "Sofia.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Elizabeth Khan",
+  "birthday" : "1993-02-11",
+  "email" : "Elizabeth.Khan@domain.xyz",
+  "revenue" : 749.20,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Khan",
+  "birthday" : "1991-02-11",
+  "email" : "Qiang,.Khan@domain.xyz",
+  "revenue" : 469.66,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Small",
+  "birthday" : "1992-02-11",
+  "email" : "Sofia.Small@domain.xyz",
+  "revenue" : 126.54,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Lang",
+  "birthday" : "2000-02-11",
+  "email" : "Ahmet.Lang@domain.xyz",
+  "revenue" : 8.84,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Potter",
+  "birthday" : "1991-02-11",
+  "email" : "Scarlett.Potter@domain.xyz",
+  "revenue" : 6.26,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Nguyen",
+  "birthday" : "1990-02-11",
+  "email" : "Berat.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Winters",
+  "birthday" : "2001-02-11",
+  "email" : "Kaya.Winters@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Amelia Mueller",
+  "birthday" : "1991-02-11",
+  "email" : "Amelia.Mueller@domain.xyz",
+  "revenue" : 330.12,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Small",
+  "birthday" : "2001-02-11",
+  "email" : "Kaya.Small@domain.xyz",
+  "revenue" : 328.79,
+  "isCustomer" : true
+}, {
+  "name" : "Li Burke",
+  "birthday" : "2001-02-11",
+  "email" : "Li.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Li Wolf",
+  "birthday" : "1995-02-11",
+  "email" : "Li.Wolf@domain.xyz",
+  "revenue" : 142.91,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Winters",
+  "birthday" : "2003-02-11",
+  "email" : "Emily.Winters@domain.xyz",
+  "revenue" : 264.67,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Shah",
+  "birthday" : "2003-02-11",
+  "email" : "Emily.Shah@domain.xyz",
+  "revenue" : 68.01,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Mueller",
+  "birthday" : "2004-02-11",
+  "email" : "Wei.Mueller@domain.xyz",
+  "revenue" : 113.93,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Nguyen",
+  "birthday" : "1990-02-11",
+  "email" : "Sofia.Nguyen@domain.xyz",
+  "revenue" : 372.84,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Shah",
+  "birthday" : "2003-02-11",
+  "email" : "Qiang,.Shah@domain.xyz",
+  "revenue" : 509.36,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Winters",
+  "birthday" : "1985-02-11",
+  "email" : "Emily.Winters@domain.xyz",
+  "revenue" : 3.13,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Lang",
+  "birthday" : "1994-02-11",
+  "email" : "Emily.Lang@domain.xyz",
+  "revenue" : 349.19,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Gill",
+  "birthday" : "1988-02-11",
+  "email" : "Grace.Gill@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Berat Aziz",
+  "birthday" : "1989-02-11",
+  "email" : "Berat.Aziz@domain.xyz",
+  "revenue" : 4.05,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Spring",
+  "birthday" : "1999-02-11",
+  "email" : "Jìng.Spring@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Khan",
+  "birthday" : "2002-02-11",
+  "email" : "Emily.Khan@domain.xyz",
+  "revenue" : 236.42,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Wolf",
+  "birthday" : "1998-02-11",
+  "email" : "Yildrim.Wolf@domain.xyz",
+  "revenue" : 23.16,
+  "isCustomer" : true
+}, {
+  "name" : "Li Burke",
+  "birthday" : "2003-02-11",
+  "email" : "Li.Burke@domain.xyz",
+  "revenue" : 593.00,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Singh",
+  "birthday" : "2004-02-11",
+  "email" : "Madison.Singh@domain.xyz",
+  "revenue" : 115.91,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Lang",
+  "birthday" : "2001-02-11",
+  "email" : "Ahmet.Lang@domain.xyz",
+  "revenue" : 188.32,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Lang",
+  "birthday" : "1999-02-11",
+  "email" : "Wei.Lang@domain.xyz",
+  "revenue" : 190.73,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Winters",
+  "birthday" : "1988-02-11",
+  "email" : "Ahmet.Winters@domain.xyz",
+  "revenue" : 14.31,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Shah",
+  "birthday" : "1998-02-11",
+  "email" : "Kaya.Shah@domain.xyz",
+  "revenue" : 105.64,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Sanchez",
+  "birthday" : "1996-02-11",
+  "email" : "Minh.Sanchez@domain.xyz",
+  "revenue" : 39.22,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Michael",
+  "birthday" : "1994-02-11",
+  "email" : "Emily.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Gill",
+  "birthday" : "2001-02-11",
+  "email" : "Emily.Gill@domain.xyz",
+  "revenue" : 624.37,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Wolf",
+  "birthday" : "1994-02-11",
+  "email" : "Ella.Wolf@domain.xyz",
+  "revenue" : 264.90,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Michael",
+  "birthday" : "1992-02-11",
+  "email" : "Scarlett.Michael@domain.xyz",
+  "revenue" : 79.16,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Liu",
+  "birthday" : "2004-02-11",
+  "email" : "Wei.Liu@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Avery Singh",
+  "birthday" : "2000-02-11",
+  "email" : "Avery.Singh@domain.xyz",
+  "revenue" : 40.63,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Carvalho",
+  "birthday" : "1985-02-11",
+  "email" : "Jìng.Carvalho@domain.xyz",
+  "revenue" : 344.52,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Spring",
+  "birthday" : "1987-02-11",
+  "email" : "Evelyn.Spring@domain.xyz",
+  "revenue" : 30.65,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Potter",
+  "birthday" : "1993-02-11",
+  "email" : "Madison.Potter@domain.xyz",
+  "revenue" : 99.84,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Gill",
+  "birthday" : "1994-02-11",
+  "email" : "Daliah.Gill@domain.xyz",
+  "revenue" : 306.56,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Sanchez",
+  "birthday" : "1988-02-11",
+  "email" : "Harper.Sanchez@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ahmet Gill",
+  "birthday" : "1986-02-11",
+  "email" : "Ahmet.Gill@domain.xyz",
+  "revenue" : 16.08,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Lee",
+  "birthday" : "2001-02-11",
+  "email" : "Wei.Lee@domain.xyz",
+  "revenue" : 450.70,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Khan",
+  "birthday" : "1993-02-11",
+  "email" : "Emily.Khan@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Wei Burke",
+  "birthday" : "1988-02-11",
+  "email" : "Wei.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Jìng Khan",
+  "birthday" : "1999-02-11",
+  "email" : "Jìng.Khan@domain.xyz",
+  "revenue" : 17.50,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Winters",
+  "birthday" : "1998-02-11",
+  "email" : "Evelyn.Winters@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Li Gill",
+  "birthday" : "1987-02-11",
+  "email" : "Li.Gill@domain.xyz",
+  "revenue" : 592.15,
+  "isCustomer" : true
+}, {
+  "name" : "Li Singh",
+  "birthday" : "1996-02-11",
+  "email" : "Li.Singh@domain.xyz",
+  "revenue" : 21.63,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Fox",
+  "birthday" : "1997-02-11",
+  "email" : "Wei.Fox@domain.xyz",
+  "revenue" : 3.83,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Chen",
+  "birthday" : "2004-02-11",
+  "email" : "Qiang,.Chen@domain.xyz",
+  "revenue" : 7.95,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Michael",
+  "birthday" : "1986-02-11",
+  "email" : "Wei.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Minh Winters",
+  "birthday" : "1988-02-11",
+  "email" : "Minh.Winters@domain.xyz",
+  "revenue" : 123.76,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Potter",
+  "birthday" : "1992-02-11",
+  "email" : "Ella.Potter@domain.xyz",
+  "revenue" : 527.99,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Carvalho",
+  "birthday" : "1985-02-11",
+  "email" : "Qiang,.Carvalho@domain.xyz",
+  "revenue" : 168.82,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Sommers",
+  "birthday" : "1998-02-11",
+  "email" : "Yildrim.Sommers@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Grace Carvalho",
+  "birthday" : "1992-02-11",
+  "email" : "Grace.Carvalho@domain.xyz",
+  "revenue" : 197.41,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Liu",
+  "birthday" : "1998-02-11",
+  "email" : "Jìng.Liu@domain.xyz",
+  "revenue" : 218.51,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Nguyen",
+  "birthday" : "1997-02-11",
+  "email" : "Daliah.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Abigail Wolf",
+  "birthday" : "1992-02-11",
+  "email" : "Abigail.Wolf@domain.xyz",
+  "revenue" : 8.04,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Michael",
+  "birthday" : "1995-02-11",
+  "email" : "Qiang,.Michael@domain.xyz",
+  "revenue" : 451.85,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Chen",
+  "birthday" : "1989-02-11",
+  "email" : "Emily.Chen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Potter",
+  "birthday" : "2002-02-11",
+  "email" : "Sofia.Potter@domain.xyz",
+  "revenue" : 313.32,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Winters",
+  "birthday" : "1991-02-11",
+  "email" : "Daliah.Winters@domain.xyz",
+  "revenue" : 333.04,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Potter",
+  "birthday" : "1987-02-11",
+  "email" : "Elizabeth.Potter@domain.xyz",
+  "revenue" : 30.23,
+  "isCustomer" : true
+}, {
+  "name" : "Li Singh",
+  "birthday" : "2001-02-11",
+  "email" : "Li.Singh@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Grace Nguyen",
+  "birthday" : "1987-02-11",
+  "email" : "Grace.Nguyen@domain.xyz",
+  "revenue" : 54.19,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Winters",
+  "birthday" : "1999-02-11",
+  "email" : "Chloe.Winters@domain.xyz",
+  "revenue" : 161.92,
+  "isCustomer" : true
+}, {
+  "name" : "Li Lang",
+  "birthday" : "2000-02-11",
+  "email" : "Li.Lang@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Harper Aziz",
+  "birthday" : "1998-02-11",
+  "email" : "Harper.Aziz@domain.xyz",
+  "revenue" : 449.83,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Carvalho",
+  "birthday" : "2002-02-11",
+  "email" : "Evelyn.Carvalho@domain.xyz",
+  "revenue" : 294.01,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Sommers",
+  "birthday" : "2003-02-11",
+  "email" : "Emily.Sommers@domain.xyz",
+  "revenue" : 61.46,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Knox",
+  "birthday" : "1988-02-11",
+  "email" : "Daliah.Knox@domain.xyz",
+  "revenue" : 78.54,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Lee",
+  "birthday" : "2001-02-11",
+  "email" : "Wei.Lee@domain.xyz",
+  "revenue" : 870.45,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Mueller",
+  "birthday" : "2002-02-11",
+  "email" : "Elizabeth.Mueller@domain.xyz",
+  "revenue" : 5.65,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Michael",
+  "birthday" : "2003-02-11",
+  "email" : "Scarlett.Michael@domain.xyz",
+  "revenue" : 173.70,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Shah",
+  "birthday" : "1999-02-11",
+  "email" : "Abigail.Shah@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Avery Wolf",
+  "birthday" : "2001-02-11",
+  "email" : "Avery.Wolf@domain.xyz",
+  "revenue" : 59.87,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Fox",
+  "birthday" : "2001-02-11",
+  "email" : "Avery.Fox@domain.xyz",
+  "revenue" : 31.50,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Knox",
+  "birthday" : "1993-02-11",
+  "email" : "Evelyn.Knox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Chloe Winters",
+  "birthday" : "1989-02-11",
+  "email" : "Chloe.Winters@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Wei Sanchez",
+  "birthday" : "1985-02-11",
+  "email" : "Wei.Sanchez@domain.xyz",
+  "revenue" : 56.79,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Khan",
+  "birthday" : "1987-02-11",
+  "email" : "Amelia.Khan@domain.xyz",
+  "revenue" : 107.44,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Gill",
+  "birthday" : "1990-02-11",
+  "email" : "Ella.Gill@domain.xyz",
+  "revenue" : 1.15,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Aziz",
+  "birthday" : "1996-02-11",
+  "email" : "Elizabeth.Aziz@domain.xyz",
+  "revenue" : 493.06,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Shah",
+  "birthday" : "1989-02-11",
+  "email" : "Amelia.Shah@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Spring",
+  "birthday" : "2000-02-11",
+  "email" : "Emily.Spring@domain.xyz",
+  "revenue" : 442.24,
+  "isCustomer" : true
+}, {
+  "name" : "Elizabeth Sommers",
+  "birthday" : "1989-02-11",
+  "email" : "Elizabeth.Sommers@domain.xyz",
+  "revenue" : 351.32,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Small",
+  "birthday" : "1995-02-11",
+  "email" : "Wei.Small@domain.xyz",
+  "revenue" : 308.74,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Lee",
+  "birthday" : "1988-02-11",
+  "email" : "Harper.Lee@domain.xyz",
+  "revenue" : 38.84,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Burke",
+  "birthday" : "1992-02-11",
+  "email" : "Scarlett.Burke@domain.xyz",
+  "revenue" : 64.81,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Lee",
+  "birthday" : "1989-02-11",
+  "email" : "Ella.Lee@domain.xyz",
+  "revenue" : 835.51,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Winters",
+  "birthday" : "2004-02-11",
+  "email" : "Abigail.Winters@domain.xyz",
+  "revenue" : 419.24,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Potter",
+  "birthday" : "1988-02-11",
+  "email" : "Daliah.Potter@domain.xyz",
+  "revenue" : 349.51,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Michael",
+  "birthday" : "2002-02-11",
+  "email" : "Jìng.Michael@domain.xyz",
+  "revenue" : 97.09,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Potter",
+  "birthday" : "2003-02-11",
+  "email" : "Grace.Potter@domain.xyz",
+  "revenue" : 627.82,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Singh",
+  "birthday" : "1999-02-11",
+  "email" : "Yildrim.Singh@domain.xyz",
+  "revenue" : 120.36,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Chen",
+  "birthday" : "1994-02-11",
+  "email" : "Chloe.Chen@domain.xyz",
+  "revenue" : 28.22,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Winters",
+  "birthday" : "1995-02-11",
+  "email" : "Abigail.Winters@domain.xyz",
+  "revenue" : 39.62,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Wolf",
+  "birthday" : "1990-02-11",
+  "email" : "Evelyn.Wolf@domain.xyz",
+  "revenue" : 53.74,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Lee",
+  "birthday" : "1999-02-11",
+  "email" : "Ahmet.Lee@domain.xyz",
+  "revenue" : 213.96,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Potter",
+  "birthday" : "1990-02-11",
+  "email" : "Qiang,.Potter@domain.xyz",
+  "revenue" : 132.86,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Burke",
+  "birthday" : "1995-02-11",
+  "email" : "Jìng.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Yildrim Sanchez",
+  "birthday" : "1991-02-11",
+  "email" : "Yildrim.Sanchez@domain.xyz",
+  "revenue" : 967.04,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Winters",
+  "birthday" : "1991-02-11",
+  "email" : "Kaya.Winters@domain.xyz",
+  "revenue" : 230.51,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Smith",
+  "birthday" : "1989-02-11",
+  "email" : "Jìng.Smith@domain.xyz",
+  "revenue" : 242.95,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Small",
+  "birthday" : "2004-02-11",
+  "email" : "Qiang,.Small@domain.xyz",
+  "revenue" : 316.95,
+  "isCustomer" : true
+}, {
+  "name" : "Jìng Khan",
+  "birthday" : "1990-02-11",
+  "email" : "Jìng.Khan@domain.xyz",
+  "revenue" : 291.32,
+  "isCustomer" : true
+}, {
+  "name" : "Kaya Lee",
+  "birthday" : "1997-02-11",
+  "email" : "Kaya.Lee@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ahmet Sommers",
+  "birthday" : "2003-02-11",
+  "email" : "Ahmet.Sommers@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Michael",
+  "birthday" : "1996-02-11",
+  "email" : "Kaya.Michael@domain.xyz",
+  "revenue" : 24.82,
+  "isCustomer" : true
+}, {
+  "name" : "Abigail Fox",
+  "birthday" : "1992-02-11",
+  "email" : "Abigail.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Avery Nguyen",
+  "birthday" : "1995-02-11",
+  "email" : "Avery.Nguyen@domain.xyz",
+  "revenue" : 56.15,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Michael",
+  "birthday" : "2001-02-11",
+  "email" : "Ella.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Nguyen",
+  "birthday" : "1997-02-11",
+  "email" : "Emily.Nguyen@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Sofia Aziz",
+  "birthday" : "1997-02-11",
+  "email" : "Sofia.Aziz@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Aziz",
+  "birthday" : "2004-02-11",
+  "email" : "Kaya.Aziz@domain.xyz",
+  "revenue" : 182.40,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Wolf",
+  "birthday" : "2002-02-11",
+  "email" : "Scarlett.Wolf@domain.xyz",
+  "revenue" : 550.37,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Shah",
+  "birthday" : "1989-02-11",
+  "email" : "Evelyn.Shah@domain.xyz",
+  "revenue" : 87.40,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Carvalho",
+  "birthday" : "1994-02-11",
+  "email" : "Chloe.Carvalho@domain.xyz",
+  "revenue" : 513.74,
+  "isCustomer" : true
+}, {
+  "name" : "Evelyn Liu",
+  "birthday" : "1999-02-11",
+  "email" : "Evelyn.Liu@domain.xyz",
+  "revenue" : 504.58,
+  "isCustomer" : true
+}, {
+  "name" : "Sofia Khan",
+  "birthday" : "1987-02-11",
+  "email" : "Sofia.Khan@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Grace Chen",
+  "birthday" : "1999-02-11",
+  "email" : "Grace.Chen@domain.xyz",
+  "revenue" : 182.05,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Lang",
+  "birthday" : "2001-02-11",
+  "email" : "Minh.Lang@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Wei Small",
+  "birthday" : "1987-02-11",
+  "email" : "Wei.Small@domain.xyz",
+  "revenue" : 178.06,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Gill",
+  "birthday" : "1985-02-11",
+  "email" : "Harper.Gill@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Avery Winters",
+  "birthday" : "1993-02-11",
+  "email" : "Avery.Winters@domain.xyz",
+  "revenue" : 370.52,
+  "isCustomer" : true
+}, {
+  "name" : "Qiang, Spring",
+  "birthday" : "1994-02-11",
+  "email" : "Qiang,.Spring@domain.xyz",
+  "revenue" : 243.88,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Spring",
+  "birthday" : "1995-02-11",
+  "email" : "Yildrim.Spring@domain.xyz",
+  "revenue" : 563.18,
+  "isCustomer" : true
+}, {
+  "name" : "Scarlett Lee",
+  "birthday" : "1998-02-11",
+  "email" : "Scarlett.Lee@domain.xyz",
+  "revenue" : 516.92,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Fox",
+  "birthday" : "2000-02-11",
+  "email" : "Amelia.Fox@domain.xyz",
+  "revenue" : 39.22,
+  "isCustomer" : true
+}, {
+  "name" : "Li Carvalho",
+  "birthday" : "1988-02-11",
+  "email" : "Li.Carvalho@domain.xyz",
+  "revenue" : 304.41,
+  "isCustomer" : true
+}, {
+  "name" : "Madison Michael",
+  "birthday" : "1990-02-11",
+  "email" : "Madison.Michael@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Evelyn Burke",
+  "birthday" : "1992-02-11",
+  "email" : "Evelyn.Burke@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Evelyn Burke",
+  "birthday" : "1992-02-11",
+  "email" : "Evelyn.Burke@domain.xyz",
+  "revenue" : 268.51,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Nguyen",
+  "birthday" : "1987-02-11",
+  "email" : "Zane.Nguyen@domain.xyz",
+  "revenue" : 106.68,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Aziz",
+  "birthday" : "1987-02-11",
+  "email" : "Harper.Aziz@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Berat Knox",
+  "birthday" : "1994-02-11",
+  "email" : "Berat.Knox@domain.xyz",
+  "revenue" : 205.53,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Lang",
+  "birthday" : "1993-02-11",
+  "email" : "Emily.Lang@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Kaya Smith",
+  "birthday" : "2000-02-11",
+  "email" : "Kaya.Smith@domain.xyz",
+  "revenue" : 200.02,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Sanchez",
+  "birthday" : "1995-02-11",
+  "email" : "Minh.Sanchez@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Minh Winters",
+  "birthday" : "1997-02-11",
+  "email" : "Minh.Winters@domain.xyz",
+  "revenue" : 540.61,
+  "isCustomer" : true
+}, {
+  "name" : "Daliah Lang",
+  "birthday" : "2000-02-11",
+  "email" : "Daliah.Lang@domain.xyz",
+  "revenue" : 7.71,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Small",
+  "birthday" : "1993-02-11",
+  "email" : "Yildrim.Small@domain.xyz",
+  "revenue" : 207.99,
+  "isCustomer" : true
+}, {
+  "name" : "Berat Potter",
+  "birthday" : "1995-02-11",
+  "email" : "Berat.Potter@domain.xyz",
+  "revenue" : 268.81,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Potter",
+  "birthday" : "2004-02-11",
+  "email" : "Minh.Potter@domain.xyz",
+  "revenue" : 33.78,
+  "isCustomer" : true
+}, {
+  "name" : "Wei Smith",
+  "birthday" : "2004-02-11",
+  "email" : "Wei.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Elizabeth Chen",
+  "birthday" : "1994-02-11",
+  "email" : "Elizabeth.Chen@domain.xyz",
+  "revenue" : 389.71,
+  "isCustomer" : true
+}, {
+  "name" : "Ella Winters",
+  "birthday" : "1991-02-11",
+  "email" : "Ella.Winters@domain.xyz",
+  "revenue" : 326.30,
+  "isCustomer" : true
+}, {
+  "name" : "Amelia Sanchez",
+  "birthday" : "1986-02-11",
+  "email" : "Amelia.Sanchez@domain.xyz",
+  "revenue" : 488.55,
+  "isCustomer" : true
+}, {
+  "name" : "Yildrim Smith",
+  "birthday" : "2001-02-11",
+  "email" : "Yildrim.Smith@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Qiang, Smith",
+  "birthday" : "1998-02-11",
+  "email" : "Qiang,.Smith@domain.xyz",
+  "revenue" : 504.98,
+  "isCustomer" : true
+}, {
+  "name" : "Minh Liu",
+  "birthday" : "2003-02-11",
+  "email" : "Minh.Liu@domain.xyz",
+  "revenue" : 86.12,
+  "isCustomer" : true
+}, {
+  "name" : "Li Fox",
+  "birthday" : "1986-02-11",
+  "email" : "Li.Fox@domain.xyz",
+  "revenue" : 274.93,
+  "isCustomer" : true
+}, {
+  "name" : "Chloe Singh",
+  "birthday" : "1993-02-11",
+  "email" : "Chloe.Singh@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Emily Gill",
+  "birthday" : "2004-02-11",
+  "email" : "Emily.Gill@domain.xyz",
+  "revenue" : 75.13,
+  "isCustomer" : true
+}, {
+  "name" : "Avery Carvalho",
+  "birthday" : "2004-02-11",
+  "email" : "Avery.Carvalho@domain.xyz",
+  "revenue" : 55.82,
+  "isCustomer" : true
+}, {
+  "name" : "Grace Shah",
+  "birthday" : "2002-02-11",
+  "email" : "Grace.Shah@domain.xyz",
+  "revenue" : 171.69,
+  "isCustomer" : true
+}, {
+  "name" : "Emily Liu",
+  "birthday" : "1987-02-11",
+  "email" : "Emily.Liu@domain.xyz",
+  "revenue" : 528.71,
+  "isCustomer" : true
+}, {
+  "name" : "Ahmet Carvalho",
+  "birthday" : "1991-02-11",
+  "email" : "Ahmet.Carvalho@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Zane Mueller",
+  "birthday" : "1997-02-11",
+  "email" : "Zane.Mueller@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Madison Spring",
+  "birthday" : "1994-02-11",
+  "email" : "Madison.Spring@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Daliah Carvalho",
+  "birthday" : "2002-02-11",
+  "email" : "Daliah.Carvalho@domain.xyz",
+  "revenue" : 246.89,
+  "isCustomer" : true
+}, {
+  "name" : "Harper Winters",
+  "birthday" : "1988-02-11",
+  "email" : "Harper.Winters@domain.xyz",
+  "revenue" : 44.84,
+  "isCustomer" : true
+}, {
+  "name" : "Zane Shah",
+  "birthday" : "2001-02-11",
+  "email" : "Zane.Shah@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+}, {
+  "name" : "Ella Fox",
+  "birthday" : "1996-02-11",
+  "email" : "Ella.Fox@domain.xyz",
+  "revenue" : 0,
+  "isCustomer" : false
+} ]
